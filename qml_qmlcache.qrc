@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="shaders/final_pass.frag">shaders/final_pass.frag</file>
+        <file alias="shaders/hud.vert">shaders/hud.vert</file>
+        <file alias="shaders/disc_render.frag">shaders/disc_render.frag</file>
+        <file alias="shaders/disc_render.vert">shaders/disc_render.vert</file>
+        <file alias="shaders/mesh.frag">shaders/mesh.frag</file>
+        <file alias="shaders/mesh.vert">shaders/mesh.vert</file>
+    </qresource>
+</RCC>
